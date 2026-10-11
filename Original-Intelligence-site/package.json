@@ -1,8 +1,0 @@
-{
-  "name": "original-intelligence-presentation",
-  "version": "1.0.0",
-  "description": "Original Intelligence: interactive animated presentation by Genesco Dela Cruz",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
